@@ -17,7 +17,7 @@ import user6 from "../assets/profile-pictures/userLogo.png";
 import logo from "./boyLogo.jpg";
 export const navItems = [
   { label: "HackHound 2.0", href: "https://hackhound.tech" },
-  { label: "Events", href: "#" },
+  { label: "Events", href: "/events" },
   { label: "Our Team", href: "#" },
   { label: "Registration", href: "#" },
 ];
